@@ -4,5 +4,5 @@ def func(x0,x1):
     return (U)
 x=float(input('Ведіть X: '))
 y=float(input('Ведіть Y: '))
-U=func(x,y)
-print(U)
+A=func(x,y)
+print(A)
